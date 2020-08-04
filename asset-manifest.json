@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/swing-holic/static/css/main.5f361e03.chunk.css",
+    "main.js": "/swing-holic/static/js/main.d96bef2e.chunk.js",
+    "main.js.map": "/swing-holic/static/js/main.d96bef2e.chunk.js.map",
+    "runtime-main.js": "/swing-holic/static/js/runtime-main.5497baea.js",
+    "runtime-main.js.map": "/swing-holic/static/js/runtime-main.5497baea.js.map",
+    "static/js/2.ceb63cb6.chunk.js": "/swing-holic/static/js/2.ceb63cb6.chunk.js",
+    "static/js/2.ceb63cb6.chunk.js.map": "/swing-holic/static/js/2.ceb63cb6.chunk.js.map",
+    "index.html": "/swing-holic/index.html",
+    "precache-manifest.299cf3545e0177aec2ba982572a2b625.js": "/swing-holic/precache-manifest.299cf3545e0177aec2ba982572a2b625.js",
+    "service-worker.js": "/swing-holic/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/swing-holic/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ceb63cb6.chunk.js.LICENSE.txt": "/swing-holic/static/js/2.ceb63cb6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/swing-holic/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5497baea.js",
+    "static/js/2.ceb63cb6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d96bef2e.chunk.js"
+  ]
+}
